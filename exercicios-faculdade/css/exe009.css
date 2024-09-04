@@ -1,0 +1,19 @@
+p {
+    color: blue; /* Alterar a cor */
+    font-size: 36px;/* Alterar o tamanho da font */
+    background-color: aqua;/* Alterar cor do fundo do parágrato */
+    font-family: Arial, Helvetica, sans-serif;/* Alterar família da font*/
+    font-weight: 900;/* Alerar o peso da font */
+    
+}
+
+#sobrenome {
+    color: blueviolet;
+    background-color: beige;
+}
+
+.texto {
+    color: chartreuse;
+    background-color: azure;
+    
+}

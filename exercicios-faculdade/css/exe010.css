@@ -1,0 +1,10 @@
+.box {
+    width: 100px; /* Largura */
+    height: 100px;/* Altura */
+    background: red;/* Cor da caixa */
+    border: black 3px solid;/* cor e espessura da borda */
+    padding: 10px;/* Espaçamento interno*/
+    margin: 70px;/* Espacamento externo */
+    box-sizing: border-box;/* calcúlo da caixa */
+}
+ 
